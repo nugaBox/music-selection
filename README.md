@@ -1,5 +1,4 @@
-# music-selection
-음악 선곡표 게시판
+# vueBoard
 
 ## Project setup
 ```
